@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/API.todolist/static/css/main.77b2e8b5.chunk.css",
+    "main.js": "/API.todolist/static/js/main.578a380d.chunk.js",
+    "main.js.map": "/API.todolist/static/js/main.578a380d.chunk.js.map",
+    "runtime-main.js": "/API.todolist/static/js/runtime-main.470e213f.js",
+    "runtime-main.js.map": "/API.todolist/static/js/runtime-main.470e213f.js.map",
+    "static/js/2.d5460d65.chunk.js": "/API.todolist/static/js/2.d5460d65.chunk.js",
+    "static/js/2.d5460d65.chunk.js.map": "/API.todolist/static/js/2.d5460d65.chunk.js.map",
+    "static/js/3.d9f31d5c.chunk.js": "/API.todolist/static/js/3.d9f31d5c.chunk.js",
+    "static/js/3.d9f31d5c.chunk.js.map": "/API.todolist/static/js/3.d9f31d5c.chunk.js.map",
+    "index.html": "/API.todolist/index.html",
+    "static/css/main.77b2e8b5.chunk.css.map": "/API.todolist/static/css/main.77b2e8b5.chunk.css.map",
+    "static/js/2.d5460d65.chunk.js.LICENSE.txt": "/API.todolist/static/js/2.d5460d65.chunk.js.LICENSE.txt",
+    "static/media/symbol_OK.572faa1d.svg": "/API.todolist/static/media/symbol_OK.572faa1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.470e213f.js",
+    "static/js/2.d5460d65.chunk.js",
+    "static/css/main.77b2e8b5.chunk.css",
+    "static/js/main.578a380d.chunk.js"
+  ]
+}
